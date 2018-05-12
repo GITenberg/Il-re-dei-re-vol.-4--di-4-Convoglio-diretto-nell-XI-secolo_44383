@@ -1,0 +1,33 @@
+_repo: Il-re-dei-re-vol.-4--di-4-Convoglio-diretto-nell-XI-secolo_44383
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44383-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Petruccelli della Gattina, Ferdinando
+    aliases:
+    - Della Gattina, Ferdinando Petruccelli
+    - Gattina, Ferdinando Petruccelli della
+    birthdate: 1816
+    deathdate: 1890
+    gutenberg_agent_id: '8663'
+    url: http://www.gutenberg.org/2009/agents/8663
+    wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Petruccelli_della_Gattina
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2013-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44383'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- 11th century'
+- !lcc 'BX'
+- !lcsh 'Papacy -- History -- To 1309'
+- !lcsh 'Gregory VII, Pope, approximately 1015-1085'
+title: "Il re dei re, vol. 4\r\nConvoglio diretto nell'XI secolo"
+url: http://www.gutenberg.org/ebooks/44383
